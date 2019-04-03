@@ -1,0 +1,1 @@
+First procject MERN + GraphQL
